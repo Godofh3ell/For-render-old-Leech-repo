@@ -6,3 +6,17 @@ pyrogram==1.0.7
 tgcrypto
 youtube_dl==2020.11.12
 hurry.filesize
+aiohttp
+aria2p==0.9.1
+hachoir
+Pillow
+pyrogram
+tgcrypto
+youtube_dl
+hurry.filesize
+python-dotenv
+beautifulsoup4>=4.8.2,<4.8.10
+bs4
+lxml
+requests
+messages
