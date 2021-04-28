@@ -1,53 +1,18 @@
 
-##THIS WON'T WORK 
+###THIS WON'T WORK 
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Godofh3ell/For-render-old-Leech-repo/tree/master)
 
-Bot Commands
-ytdl -Reply to a YouTube link
 
-ytdl gdrive -Upload YouTube file to Gdrive
 
-leech -magnent, torrent or direct link
-
-leech archive -as an archive
-
-gleech -leech and upload to Gdrive
-
-gleech archive -as an archive
-
-leech unzip -unzip file
-
-gleech unzip -unzip and upload to Gdrive
-
-leech unrar -unrar file
-
-gleech unrar -unrar and upload to Gdrive
-
-leech untar -untar file
-
-gleech untar -untar and upload to GDrive
-
-tleech -mirror telegram files to GDrive
-
-tleech unzip -unzip and mirror TG files
-
-tleech unrar -unrar and mirror TG files
-
-tleech untar -untar and mirror TG files
-
-getsize -Get size of Cloud storage folder
-
-Deploying the Bot
-sudo dockerd
-Then,
 
  
 
 .
 
-* 
 
-* 
+
+
 * `/ytdl gdrive`: This will download and upload to your cloud.
 
 * `/pytdl gdrive`: This download youtube playlist and upload to your cloud.
